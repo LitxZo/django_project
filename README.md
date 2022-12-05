@@ -1,1 +1,1 @@
-# django_project
+# 这是一个README
